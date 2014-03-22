@@ -3,8 +3,9 @@ choroplethr 1.4
 
 FEATURE
   -New choroplethr_animate function for animating choropleth maps.  See ?choroplethr_animate
+  -Add vignettes
+  -Add example datasets and update help
   -Handle string data as values
-  -add example datasets and update help
   -Add commas to scales.
 
 BUG FIXES
